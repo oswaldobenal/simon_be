@@ -1,0 +1,41 @@
+{"asctime": "2025-02-15 17:09:10,000", "levelname": "INFO", "message": "Starting application..."}
+{"asctime": "2025-02-15 17:09:10,000", "levelname": "DEBUG", "message": "Creating database tables"}
+{"asctime": "2025-02-15 17:09:28,992", "levelname": "INFO", "message": "Starting application..."}
+{"asctime": "2025-02-15 17:09:28,992", "levelname": "DEBUG", "message": "Creating database tables"}
+{"asctime": "2025-02-15 17:14:50,061", "levelname": "INFO", "message": "Starting application..."}
+{"asctime": "2025-02-15 17:14:50,062", "levelname": "DEBUG", "message": "Creating database tables"}
+{"asctime": "2025-02-15 17:17:12,058", "levelname": "INFO", "message": "Starting application..."}
+{"asctime": "2025-02-15 17:17:12,058", "levelname": "DEBUG", "message": "Creating database tables"}
+{"asctime": "2025-02-15 17:17:28,879", "levelname": "INFO", "message": "Starting application..."}
+{"asctime": "2025-02-15 17:17:28,880", "levelname": "DEBUG", "message": "Creating database tables"}
+{"asctime": "2025-02-15 17:17:45,444", "levelname": "INFO", "message": "Starting application..."}
+{"asctime": "2025-02-15 17:17:45,445", "levelname": "DEBUG", "message": "Creating database tables"}
+{"asctime": "2025-02-15 17:21:25,661", "levelname": "INFO", "message": "Starting application..."}
+{"asctime": "2025-02-15 17:21:25,661", "levelname": "DEBUG", "message": "Creating database tables"}
+{"asctime": "2025-02-15 17:22:19,867", "levelname": "INFO", "message": "Starting application..."}
+{"asctime": "2025-02-15 17:22:19,867", "levelname": "DEBUG", "message": "Creating database tables"}
+{"asctime": "2025-02-15 17:22:25,744", "levelname": "INFO", "message": "Request processed", "path": "/", "method": "GET", "status": 404, "process_time": "0.39ms"}
+{"asctime": "2025-02-15 17:22:25,806", "levelname": "INFO", "message": "Request processed", "path": "/favicon.ico", "method": "GET", "status": 404, "process_time": "0.78ms"}
+{"asctime": "2025-02-15 17:22:36,448", "levelname": "INFO", "message": "Request processed", "path": "/docs", "method": "GET", "status": 200, "process_time": "0.53ms"}
+{"asctime": "2025-02-15 17:22:36,786", "levelname": "INFO", "message": "Request processed", "path": "/openapi.json", "method": "GET", "status": 200, "process_time": "10.55ms"}
+{"asctime": "2025-02-15 17:26:05,746", "levelname": "INFO", "message": "Shutting down application..."}
+{"asctime": "2025-02-15 17:26:07,670", "levelname": "INFO", "message": "Starting application..."}
+{"asctime": "2025-02-15 17:26:07,671", "levelname": "DEBUG", "message": "Creating database tables"}
+{"asctime": "2025-02-15 17:26:13,578", "levelname": "INFO", "message": "Request processed", "path": "/docs", "method": "GET", "status": 200, "process_time": "0.38ms"}
+{"asctime": "2025-02-15 17:26:13,795", "levelname": "INFO", "message": "Request processed", "path": "/openapi.json", "method": "GET", "status": 200, "process_time": "11.71ms"}
+{"asctime": "2025-02-15 17:26:50,493", "levelname": "INFO", "message": "Request processed", "path": "/docs", "method": "GET", "status": 200, "process_time": "0.32ms"}
+{"asctime": "2025-02-15 17:26:50,568", "levelname": "INFO", "message": "Request processed", "path": "/openapi.json", "method": "GET", "status": 200, "process_time": "0.43ms"}
+{"asctime": "2025-02-15 17:26:50,716", "levelname": "INFO", "message": "Shutting down application..."}
+{"asctime": "2025-02-15 17:26:52,547", "levelname": "INFO", "message": "Starting application..."}
+{"asctime": "2025-02-15 17:26:52,547", "levelname": "DEBUG", "message": "Creating database tables"}
+{"asctime": "2025-02-15 17:26:54,384", "levelname": "INFO", "message": "Starting application..."}
+{"asctime": "2025-02-15 17:26:54,384", "levelname": "DEBUG", "message": "Creating database tables"}
+{"asctime": "2025-02-15 17:26:54,470", "levelname": "INFO", "message": "Request processed", "path": "/docs", "method": "GET", "status": 200, "process_time": "0.50ms"}
+{"asctime": "2025-02-15 17:26:54,546", "levelname": "INFO", "message": "Request processed", "path": "/openapi.json", "method": "GET", "status": 200, "process_time": "13.74ms"}
+{"asctime": "2025-02-15 17:27:18,147", "levelname": "INFO", "message": "Shutting down application..."}
+{"asctime": "2025-02-15 17:27:20,101", "levelname": "INFO", "message": "Starting application..."}
+{"asctime": "2025-02-15 17:27:20,102", "levelname": "DEBUG", "message": "Creating database tables"}
+{"asctime": "2025-02-15 17:27:45,832", "levelname": "INFO", "message": "Shutting down application..."}
+{"asctime": "2025-02-15 17:27:47,696", "levelname": "INFO", "message": "Starting application..."}
+{"asctime": "2025-02-15 17:27:47,696", "levelname": "DEBUG", "message": "Creating database tables"}
+{"asctime": "2025-02-15 17:28:50,135", "levelname": "INFO", "message": "Shutting down application..."}
